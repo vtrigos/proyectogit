@@ -4,8 +4,12 @@
 4. git commit -m : Agrega archivos del staging area al repositorio git
 5. git log : Te lista todos los commits realizados    --oneline   te lista más pequeño
 6. .gitignore  :Ignora archivos o carpetas
+7. git push -u origin main : sube archivos a repositorios
 
 
+
+
+https://github.com/
 tecla esc :wq enter   (cuando se abra un editor o tengas algun problema)
 
 
